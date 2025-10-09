@@ -1,0 +1,293 @@
+{
+  "Copas Infantiles": [
+    {
+      "id": 1,
+      "nombre": "Mausse",
+      "descripcion": "Dos bolas de helado, galleta Oreo, M&M, gomitas, Chantilly, grajeas",
+      "precio": 10000
+    },
+    {
+      "id": 2,
+      "nombre": "Pollito",
+      "descripcion": "Dos sabores de helado, M&M, gomitas, Chantilly, grajeas",
+      "precio": 10000
+    },
+    {
+      "id": 3,
+      "nombre": "Muñeco de Nieve",
+      "descripcion": "Dos sabores de helado, gomitas, Chantilly, grajeas, cereza",
+      "precio": 10000
+    },
+    {
+      "id": 4,
+      "nombre": "Gusano",
+      "descripcion": "Tres sabores de helado, gomitas, grajeas",
+      "precio": 10000
+    },
+    {
+      "id": 5,
+      "nombre": "Payasito",
+      "descripcion": "Un sabor de helado en cucurucho, M&M, Chantilly, grajeas",
+      "precio": 8500
+    }
+  ],
+  "Bebidas": [
+    {
+      "id": 6,
+      "nombre": "Limonada natural",
+      "descripcion": "",
+      "precio": 7000
+    },
+    {
+      "id": 7,
+      "nombre": "Limonada de coco",
+      "descripcion": "",
+      "precio": 8000
+    },
+    {
+      "id": 8,
+      "nombre": "Jugo en leche",
+      "descripcion": "",
+      "precio": 7000
+    },
+    {
+      "id": 9,
+      "nombre": "Jugo en agua",
+      "descripcion": "",
+      "precio": 6000
+    }
+  ],
+  "Cucurucho": [
+    {
+      "id": 10,
+      "nombre": "Sencillo",
+      "precio": 4300
+    },
+    {
+      "id": 11,
+      "nombre": "Doble",
+      "precio": 6500
+    }
+  ],
+  "Concha": [
+    {
+      "id": 12,
+      "nombre": "Sencillo",
+      "precio": 4300
+    },
+    {
+      "id": 13,
+      "nombre": "Doble",
+      "precio": 6500
+    }
+  ],
+  "Vaso": [
+    {
+      "id": 14,
+      "nombre": "Sencillo",
+      "precio": 4300
+    },
+    {
+      "id": 15,
+      "nombre": "Doble",
+      "precio": 6500
+    },
+    {
+      "id": 16,
+      "nombre": "Triple",
+      "precio": 8500
+    }
+  ],
+  "Adiciones": [
+    { "id": 17, "nombre": "Queso", "precio": 7000 },
+    { "id": 18, "nombre": "Chantilly", "precio": 7000 },
+    { "id": 19, "nombre": "Fruta (Mango, Fresa, Papaya)", "precio": 3000 },
+    { "id": 20, "nombre": "Galletas", "precio": 2000 },
+    { "id": 21, "nombre": "Brownie caliente", "precio": 4000 },
+    { "id": 22, "nombre": "Brevas", "precio": 4000 },
+    { "id": 23, "nombre": "Cereal (Crispi, Zucaritas)", "precio": 3500 },
+    { "id": 24, "nombre": "Cerezas", "precio": 4500 },
+    { "id": 25, "nombre": "Maní", "precio": 3000 },
+    { "id": 26, "nombre": "Gelatina", "precio": 3500 },
+    { "id": 27, "nombre": "Duraznos", "precio": 6000 },
+    { "id": 28, "nombre": "Barquillos", "precio": 1500 },
+    { "id": 29, "nombre": "Gusanos", "precio": 1500 },
+    { "id": 30, "nombre": "Topins (M&M, Chips de chocolate)", "precio": 2500 }
+  ],
+  "Sabores de Helado": [
+    {
+      "id": 31,
+      "nombre": "Macadamia, Vainilla pasas, Brownie, Veteado de mora, Natamani, Fresa, Ron pasas, Chocolate, Vainilla, Vainilla light, Frutos rojos, Maracuyá, Mandarina, Chicle, Tres leches, Almendras, Vainilla chips, Arequipe, Veteado de caramelo",
+      "precio": 0
+    }
+  ],
+  "Helados para Mascota": [
+    { "id": 32, "nombre": "Helado especial para mascota", "precio": 4000 }
+  ],
+  "Copas con Queso": [
+    {
+      "id": 33,
+      "nombre": "Copa Melosa",
+      "descripcion": "Un sabor de helado, queso, Chantilly, cereza, lechera",
+      "precio": 12000
+    },
+    {
+      "id": 34,
+      "nombre": "Copa Helaos",
+      "descripcion": "Dos sabores de helado, queso, Chantilly, galletas de mantequilla, salsa de chocolate",
+      "precio": 15000
+    },
+    {
+      "id": 35,
+      "nombre": "Copa Bacana",
+      "descripcion": "Tres sabores de helado, queso, Chantilly, barquillos, salsa de chocolate",
+      "precio": 16000
+    },
+    {
+      "id": 36,
+      "nombre": "Copa Tentación",
+      "descripcion": "Piña caramelizada, duraznos, fresa, Crispi negro, queso, helado, Chantilly, manzana, cereza y salsa de chocolate",
+      "precio": 17500
+    },
+    {
+      "id": 37,
+      "nombre": "Mediterráneo",
+      "descripcion": "Brevas caramelizadas, queso, un sabor de helado, Chantilly y salsa de arequipe",
+      "precio": 16000
+    },
+    {
+      "id": 38,
+      "nombre": "Copa Mulata",
+      "descripcion": "Queso, brownie caliente, un sabor de helado, Chantilly, barquillos, salsa de chocolate",
+      "precio": 16000
+    },
+    {
+      "id": 39,
+      "nombre": "Delicia de Fresa Especial",
+      "descripcion": "Fresa con yogurt, queso, un sabor de helado, Chantilly y lechera",
+      "precio": 15500
+    },
+    {
+      "id": 40,
+      "nombre": "Copa Jumbo Oreo",
+      "descripcion": "Ripio de galleta Oreo, chocolatina Mini Jumbo, queso, cuatro sabores de helado, Chantilly, chips de chocolate, galleta Oreo y salsa de chocolate",
+      "precio": 25000
+    }
+  ],
+  "Waffles y Crepes": [
+    {
+      "id": 41,
+      "nombre": "Waffle con helado",
+      "descripcion": "Fresa, banano, duraznos, un sabor de helado, Chantilly, salsa de arequipe y cereza",
+      "precio": 17000
+    },
+    {
+      "id": 42,
+      "nombre": "Waffle con queso",
+      "descripcion": "Queso, dos sabores de helado, fresa, Chantilly, salsa de cereza",
+      "precio": 20000
+    },
+    {
+      "id": 43,
+      "nombre": "Crepe con helado",
+      "descripcion": "Queso, fresa, duraznos, banano, un sabor de helado, Chantilly, salsa de arequipe y cereza",
+      "precio": 19000
+    }
+  ],
+  "Salpicones": [
+    {
+      "id": 44,
+      "nombre": "Salpicón especial",
+      "descripcion": "Papaya, mango, banano, lechera, queso, un sabor de helado, Chantilly",
+      "precio": 14000
+    },
+    {
+      "id": 45,
+      "nombre": "Salpicón pequeño",
+      "descripcion": "Papaya, mango, banano, lechera, un sabor de helado, Chantilly, dos barquillos y cereza",
+      "precio": 12000
+    },
+    {
+      "id": 46,
+      "nombre": "Salpicón sencillo",
+      "descripcion": "Papaya, mango, banano, lechera, dos barquillos",
+      "precio": 8500
+    }
+  ],
+  "Ensaladas de Frutas": [
+    {
+      "id": 47,
+      "nombre": "Ensalada de frutas especial",
+      "descripcion": "Papaya, mango, banano, fresa, manzana, yogurt, zucaritas o granola, queso, dos sabores de helado, Chantilly, barquillo, lechera",
+      "precio": 18000
+    },
+    {
+      "id": 48,
+      "nombre": "Ensalada de frutas pequeña",
+      "descripcion": "Papaya, mango, banano, fresa, manzana, yogurt, zucaritas o granola, queso, un sabor de helado, Chantilly, barquillo, lechera",
+      "precio": 16000
+    },
+    {
+      "id": 49,
+      "nombre": "Ensalada de frutas sencilla",
+      "descripcion": "Papaya, mango, banano, fresa, manzana, yogurt, zucaritas o granola, queso, Chantilly o helado, barquillo, lechera",
+      "precio": 12500
+    }
+  ],
+  "Variedad de Copas": [
+    {
+      "id": 50,
+      "nombre": "Fresas con crema",
+      "descripcion": "Fresas, helado, Chantilly, lechera",
+      "precio": 13800
+    },
+    {
+      "id": 51,
+      "nombre": "Copa Corazón",
+      "descripcion": "Dos sabores de helado, galleta corazón, Chantilly, cereza, salsa de mora",
+      "precio": 14000
+    },
+    {
+      "id": 52,
+      "nombre": "Copa Crocante",
+      "descripcion": "Crispi negro, Crispi blanco, dos sabores de helado, Chantilly, salsa de arequipe",
+      "precio": 14300
+    },
+    {
+      "id": 53,
+      "nombre": "Copa Fantasía de Maracuyá",
+      "descripcion": "Dos sabores de helado, pulpa de maracuyá, Chantilly, cereza y lechera",
+      "precio": 13300
+    },
+    {
+      "id": 54,
+      "nombre": "Copa Tropicana",
+      "descripcion": "Mango, duraznos, papaya, banano, dos sabores de helado, Chantilly, cereza y salsa de arequipe",
+      "precio": 16500
+    },
+    {
+      "id": 55,
+      "nombre": "Antojo",
+      "descripcion": "Duraznos, fresa, brownie caliente, helado, Chantilly, cereza y salsa de chocolate",
+      "precio": 16000
+    },
+    {
+      "id": 56,
+      "nombre": "Sol Caribe",
+      "descripcion": "Un sabor de helado, duraznos, Chantilly, cereza, salsa de arequipe",
+      "precio": 14000
+    },
+    {
+      "id": 57,
+      "nombre": "Brownie con Helado",
+      "descripcion": "Brownie caliente, helado, Chantilly y salsa de chocolate",
+      "precio": 11000
+    },
+    {
+      "id": 58,
+      "nombre": "Banana Split",
+      "descripcion": "Tres sabores de helado, banano, fresa, Chantilly, barquillos, galleta wafer, salsa de chocolate, arequipe y lechera",
+      "precio": 16000
+    }
+  ]
+}
