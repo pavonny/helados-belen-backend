@@ -56,4 +56,4 @@ Este proyecto es el backend para la carta digital de Helados Belén. Permite con
 
 ## Autor
 
-Desarrollado por Helados Belén y colaboradores.
+Desarrollado por Alexander Pavonny.
